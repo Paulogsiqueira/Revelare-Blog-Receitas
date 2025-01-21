@@ -20,8 +20,8 @@ function App() {
         <div className="flex items-center mr-6 vs:mr-0 ">
           <img src="/utils/logo.png" alt="Logo do Blog Revelare" className="w-[50px] sm:w-[70px]" />
           <p className="text-sm vs:flex text-lg text-slate-800 font-bold">
-            <span className="text-green-500 text-lg vs:text-2xl">B</span>log{" "}
-            <span className="text-lg vs:text-2xl text-green-500">R</span>evelare
+            <span className="text-green-700 text-lg vs:text-2xl">B</span>log{" "}
+            <span className="text-lg vs:text-2xl text-green-700">R</span>evelare
           </p>
         </div>
         <ul className="flex justify-center items-center gap-4 mt-2 text-md vs:text-xl">
