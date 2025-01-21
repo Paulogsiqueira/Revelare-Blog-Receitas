@@ -20,10 +20,10 @@ Este é um projeto de blog de receitas desenvolvido com **React**, **Vite**, **T
 
 ## Como Executar o Projeto 🚀
 
-1º - git clone https://github.com/Paulogsiqueira/Revelare-Blog-Receitas.git
-2º - cd .\Revelare-Blog-Receitas\
-3º - npm install
-4º - npm run dev
+- 1º git clone https://github.com/Paulogsiqueira/Revelare-Blog-Receitas.git
+- 2º cd .\Revelare-Blog-Receitas\
+- 3º npm install
+- 4º npm run dev
 
 Deploy: https://revelare-blog-receitas.vercel.app/
 
