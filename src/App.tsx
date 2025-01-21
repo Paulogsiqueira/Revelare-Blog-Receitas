@@ -48,7 +48,7 @@ function App() {
         </ul>
       </div>
       <div className="flex max-w-[90%] mx-auto justify-between">
-        <div className="max-w-full lg:max-w-[70%]">
+        <div className="min-w-[70%] max-w-full lg:max-w-[70%]">
           <Routes>
             <Route path="/" element={<PostList posts={recipes} />} />
             <Route path="/receita/:id" element={<PostFull />} />
